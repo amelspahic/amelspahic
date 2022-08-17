@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @amelspahic
-- 👀 I’m interested in .NET, Python, IoT, Bioinformatics
+- 👀 I’m interested in .NET, Python, IoT, Bioinformatics, Docker, Kubernetes, Cloud, etc.
+- You can visit my blog on https://amelspahic.com
 
 <!---
 amelspahic/amelspahic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
