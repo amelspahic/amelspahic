@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amelspahic
-- 👀 I’m interested in .NET, Python, IoT, Bioinformatics, Docker, Kubernetes, Cloud, etc.
+- 👀 I’m interested in .NET, JS/TS, Python, IoT, Bioinformatics, Docker, Kubernetes, Cloud, etc.
 - You can visit my blog on https://amelspahic.com
 
 <!---
